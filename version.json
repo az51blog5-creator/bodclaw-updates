@@ -1,7 +1,7 @@
 {
-  "version": "1.3.1",
-  "versionCode": 10301,
-  "apkUrl": "https://drive.google.com/file/d/1cBGRKQvz9hXpxS7e0deJWlQmhqjUhNuO/view?usp=sharing",
-  "releaseNotes": "تغيير شكل التطبيق واضافه مزايا متعدده",
+  "version": "1.3.2",
+  "versionCode": 10302,
+  "apkUrl": "https://drive.google.com/file/d/1gvbq2eEiBJU7dw2R6i48dp-O4ezieWhb/view?usp=sharing",
+  "releaseNotes": "تم اضافه تحسين عنوان البلاغ بالذكاء الاصطناعي وتكبير الازرار وتغيير الالوان واضافات اخرى",
   "forceUpdate": false
 }
