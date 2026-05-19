@@ -2,6 +2,6 @@
   "version": "1.5.0",
   "versionCode": 10500,
   "apkUrl": "https://drive.google.com/file/d/1eCx8EjtSCwD0vVv2rU3esskNu6XJ0q8_/view?usp=sharing",
-  "releaseNotes": "اضافة نظام حفظ البلاغات",
+  "releaseNotes": "تحديث نموذج الذكاء الاصطناعى وحذف خاصية الحفظ",
   "forceUpdate": false
 }
